@@ -3,6 +3,8 @@
 
 #### 1. Online Banking Website: https://github.com/ArslanJajja/online-banking-website-design-with-html-css
 
+![Online Banking Website](/images/easybank.jpg)
+
 #### 2. URL Shortening Website: https://github.com/ArslanJajja/shortly-website-with-html-css
 
 #### 3. Insurance Policy Website: https://github.com/ArslanJajja/insurance-policy-website-design
