@@ -7,6 +7,9 @@
 
 #### 2. URL Shortening Website: https://github.com/ArslanJajja/shortly-website-with-html-css
 
+![URL Shortening Website](/images/url.jpg)
+
+
 #### 3. Insurance Policy Website: https://github.com/ArslanJajja/insurance-policy-website-design
 
 #### 4. Virtual Reality Website: https://github.com/ArslanJajja/virtual-reality-website
