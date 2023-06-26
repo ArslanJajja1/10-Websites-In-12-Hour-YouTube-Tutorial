@@ -26,6 +26,9 @@
 
 #### 6. File Storage Website: https://github.com/ArslanJajja/File-Storage-Website-Landing-Page
 
+![File Storage Website](/images/file.jpg)
+
+
 #### 7. Fylo Dark Theme Website: https://github.com/ArslanJajja/fylo-website-with-html-and-css
 
 #### 8. Clipboard Landing Page: https://github.com/ArslanJajja/Clipboard-website
