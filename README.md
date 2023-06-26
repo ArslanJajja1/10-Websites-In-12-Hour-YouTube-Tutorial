@@ -22,6 +22,8 @@
 
 #### 5. Modern Business Website: https://github.com/ArslanJajja/modern-business-website-design-with-html-and-css
 
+![Modern Business Website](/images/business.jpg)
+
 #### 6. File Storage Website: https://github.com/ArslanJajja/File-Storage-Website-Landing-Page
 
 #### 7. Fylo Dark Theme Website: https://github.com/ArslanJajja/fylo-website-with-html-and-css
