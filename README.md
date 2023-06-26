@@ -31,6 +31,9 @@
 
 #### 7. Fylo Dark Theme Website: https://github.com/ArslanJajja/fylo-website-with-html-and-css
 
+![Fylo Dark Theme Website](/images/fylo.jpg)
+
+
 #### 8. Clipboard Landing Page: https://github.com/ArslanJajja/Clipboard-website
 
 #### 9. Job Portal Website: https://github.com/ArslanJajja/job-portal-landing-page-website-with-html-and-css
