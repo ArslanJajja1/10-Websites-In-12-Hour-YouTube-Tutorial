@@ -12,6 +12,9 @@
 
 #### 3. Insurance Policy Website: https://github.com/ArslanJajja/insurance-policy-website-design
 
+![Insurance Policy Website](/images/insurance.jpg)
+
+
 #### 4. Virtual Reality Website: https://github.com/ArslanJajja/virtual-reality-website
 
 #### 5. Modern Business Website: https://github.com/ArslanJajja/modern-business-website-design-with-html-and-css
