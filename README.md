@@ -45,3 +45,5 @@
 
 
 #### 10. Manage Landing Page: https://github.com/ArslanJajja/responive-website-with-htm-css-bootstrap-manage-
+
+![Manage Landing Page](/images/manage.jpg)
