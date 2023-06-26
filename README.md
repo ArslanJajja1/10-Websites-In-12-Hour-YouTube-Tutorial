@@ -36,6 +36,9 @@
 
 #### 8. Clipboard Landing Page: https://github.com/ArslanJajja/Clipboard-website
 
+![Clipboard Landing Page](/images/clipboard.jpg)
+
+
 #### 9. Job Portal Website: https://github.com/ArslanJajja/job-portal-landing-page-website-with-html-and-css
 
 #### 10. Manage Landing Page: https://github.com/ArslanJajja/responive-website-with-htm-css-bootstrap-manage-
